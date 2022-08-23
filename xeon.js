@@ -201,12 +201,12 @@ footer: `${botname}`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `${ownername}`,
+title: `${NIMSARAMD}`,
 body: `Don't forget to read group description`,
 mediaType:2,
 thumbnail: XeonWlcm,
-sourceUrl: `${websitex}`,
-mediaUrl: `${websitex}`
+sourceUrl: `${https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI}`,
+mediaUrl: `${https://hb4alllink.herokuapp.com/1ba1e/file.jpg}`
 }}
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
@@ -241,7 +241,7 @@ mentions: [num],
 fileName: `${metadata.subject}`,
 fileLength: 99999999999999,
 caption: xeonbody,
-footer: `${botname}`,
+footer: `${NIMSARAMD}`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
@@ -249,8 +249,8 @@ title: `${ownername}`,
 body: `Bye! my friend, take care.`,
 mediaType:2,
 thumbnail: XeonLft,
-sourceUrl: `${websitex}`,
-mediaUrl: `${websitex}`
+sourceUrl: `${https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI}`,
+mediaUrl: `${https://hb4alllink.herokuapp.com/1ba1e/file.jpg}`
 }}
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
